@@ -1,4 +1,4 @@
-# Hi, I'm recluze geek! 👋
+# Hi, I'm M. Salman! 👋
 
 🚀 Full Stack Developer | MERN Stack Enthusiast
 
