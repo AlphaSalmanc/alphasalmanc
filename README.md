@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm recluze geek! 👋
 
-<!--
-**AlphaSalmanc/alphasalmanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | MERN Stack Enthusiast
 
-Here are some ideas to get you started:
+### Skills:
+- Java, JavaScript, PHP
+- HTML, CSS, React, Tailwind
+- Node.js, Express, MongoDB, XAMPP, MySQL, Strapi CMS
+- **Tools**: IntelliJ Products, VSCode
+- **Others**: Linux, RMD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning:
+- Expanding skills in MERN stack
+
+
+![](https://github.com/recluzegeek/recluzegeeek/blob/master/profile-summary-card-output/algolia/0-profile-details.svg)
+![](https://github.com/recluzegeek/recluzegeeek/blob/master/profile-summary-card-output/algolia/1-repos-per-language.svg)![](https://github.com/recluzegeek/recluzegeeek/blob/master/profile-summary-card-output/algolia/2-most-commit-language.svg)
+![](https://github.com/recluzegeek/recluzegeeek/blob/master/profile-summary-card-output/algolia/3-stats.svg)![](https://github.com/recluzegeek/recluzegeeek/blob/master/profile-summary-card-output/algolia/4-productive-time.svg)
